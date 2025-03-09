@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abigailjcharles
-- 👀 I’m interested in learning more about AI and its applications for finance and other industries. I've also been very interested in web design!
-- 🌱 I’m currently in university, studying computer science & computational cognitive sciences
+- 👀 I’m interested in learning more about AI and its applications. I've also been very interested in web design!
+- 🌱 I’m currently in university, studying political science & computer science
 - 😄 Pronouns: she / her / hers
 - ⚡ Fun fact: I love building and collecting Lego sets (specifically the car sets)
 
